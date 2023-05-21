@@ -29,3 +29,5 @@ JSON형식에서는 null, number, string, array, object, boolean을 사용할 �
 어떤 이름으로 어떤 값(형태) 무슨 내용인지 잘 설명되어 있다.
 
 이것들을 코드로 잘 작성해주면 원하는 항목의 VALUE값을 가져오는게 가능하다.
+
+PPT참조
